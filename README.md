@@ -1,9 +1,7 @@
 # Movie_Recommendation
-**#Tools**
+# Tools
+
 Python
-
 Pandas
-
 Scikit-learn
-
 Jupyter Notebook / Google Colab
